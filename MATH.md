@@ -1,7 +1,7 @@
 # Linear Algebra
 
-- Vectors and matrices [x]
-- Determinant and trace [ ]
+- Vectors and matrices - [x]
+- Determinant and trace - [ ]
 - Orthogonal matrices
 - Null space
 - Linear transformations
