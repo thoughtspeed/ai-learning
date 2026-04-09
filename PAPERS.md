@@ -14,3 +14,4 @@ LSTMs 1997 (Long Short-term memory networks)
 RNN based sequence to sequence approaches (2014)
 Attention (2015) Bahdanau et al.
 Transformer (2017)
+BERT (Devlin et al. 2019)
