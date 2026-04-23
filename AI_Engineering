@@ -16,3 +16,9 @@ https://github.com/google-research/bert
 BERT is a method of pre-training language representations. BERT uses masked language models to enable pre trained deep bidirectional representations.
 
 Generative model - a model that can generate open-ended outputs.
+
+AlexNet - the model that started the deep learning revolution
+ImageNet Classification with Deep Convolutional Neural Networks
+
+Deep convolutional neural networks with ReLUs train several times faster than their equivalents with tanh units. ReLUs have the desirable property that they do not require input normalization to prevent them
+from saturating.
