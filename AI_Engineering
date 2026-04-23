@@ -1,0 +1,18 @@
+# Notes based on AI Engineering book
+
+Language Models
+-Masked Language Model (predict missing tokens anywhere in a sequence, using the context from both before and after the missing tokens. Context -> surrounding tokens.)
+-Autoregressive Language Model (predict the next token in a sequence using only the preceding tokens)
+
+## References
+https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them
+
+## Papers
+Prediction and Entropy of Printed English (Claude Shannon)
+
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding https://arxiv.org/abs/1810.04805
+https://github.com/google-research/bert
+
+BERT is a method of pre-training language representations. BERT uses masked language models to enable pre trained deep bidirectional representations.
+
+Generative model - a model that can generate open-ended outputs.
