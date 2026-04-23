@@ -22,3 +22,21 @@ ImageNet Classification with Deep Convolutional Neural Networks
 
 Deep convolutional neural networks with ReLUs train several times faster than their equivalents with tanh units. ReLUs have the desirable property that they do not require input normalization to prevent them
 from saturating.
+
+On the Opportunities and Risks of Foundation Models
+https://arxiv.org/abs/2108.07258
+
+On a technical level, foundation models are enabled by transfer learning [Thrun 1998] and scale. The idea of transfer
+learning is to take the “knowledge” learned from one task (e.g., object recognition in images) and apply it to another task (e.g., activity recognition in videos).
+Within deep learning, pretraining is the dominant approach to transfer learning: a model is trained on a surrogate task (often just as a
+means to an end) and then adapted to the downstream task of interest via fine-tuning.
+
+A foundation model can centralize the information from all the data from various modalities. This one model can then be adapted to a wide range of downstream tasks
+one defining characteristic shared by all foundation models: they are self-supervised.
+
+https://blog.google/products-and-platforms/products/search/search-language-understanding-bert/
+
+
+
+https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gen-ai-business-use-cases/#business-professional-services
+https://www.eleuther.ai/releases
