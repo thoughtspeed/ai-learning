@@ -25,3 +25,6 @@ Double descent curve
 
 NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
 introduced attention for sequence-to-sequence models.
+
+https://arxiv.org/pdf/1110.4347
+Is the k-NN classifier in high dimensions affected by the curse of dimensionality?
