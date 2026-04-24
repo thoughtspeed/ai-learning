@@ -20,3 +20,6 @@ Reconciling modern machine learning practice and the bias-variance trade-off (Be
 introduces the concept of the double descent risk curve, showing that modern over-parameterized models like deep neural networks can generalize well even when they interpolate training data, challenging the classical U-shaped bias-variance trade-off.
 
 "Large models (neural nets, kernel machines?) often fit training data exactly yet still generalize well."
+
+Double descent curve
+
