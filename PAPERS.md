@@ -23,3 +23,5 @@ introduces the concept of the double descent risk curve, showing that modern ove
 
 Double descent curve
 
+NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
+introduced attention for sequence-to-sequence models.
