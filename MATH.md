@@ -21,3 +21,5 @@
 -Bayes' rule
 -Independence
 -Expectation
+
+https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
