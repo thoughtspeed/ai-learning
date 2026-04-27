@@ -28,3 +28,11 @@ introduced attention for sequence-to-sequence models.
 
 https://arxiv.org/pdf/1110.4347
 Is the k-NN classifier in high dimensions affected by the curse of dimensionality?
+
+
+ReLU is less susceptible to the vanishing gradient problem during neural network training. ReLU is also significantly easier to compute than these functions.
+
+The tendency for the gradients of early hidden layers of some deep neural networks to become surprisingly flat (low). Increasingly lower gradients result in increasingly smaller changes to the weights on nodes in a deep neural network, leading to little or no learning. Models suffering from the vanishing gradient problem become difficult or impossible to train.
+https://developers.google.com/machine-learning/glossary#vanishing-gradient-problem
+
+
