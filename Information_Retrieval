@@ -1,0 +1,8 @@
+IR and scoring functions
+
+3 vector based methods for similarity search
+
+1. TF-IDF (sparse)
+2. BM25 (sparse)
+3. SBERT (dense)
+
