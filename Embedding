@@ -1,0 +1,9 @@
+An embedding is a vector representation of data in embedding space.
+
+An embedding is a numerical vector that represents some piece of data (like a word, image, user, or product) inside a continuous, multi‑dimensional space called “embedding space.”
+
+“Embedding space” is the geometric space (often 100–1000 dimensions) where similar items end up close together and dissimilar items are farther apart.
+
+
+Efficient Estimation of Word Representations in Vector Space
+https://arxiv.org/abs/1301.3781
