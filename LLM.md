@@ -11,6 +11,10 @@ Attention is the heart of the Transformer
 ## Attention mechanisms
 https://lilianweng.github.io/posts/2018-06-24-attention/
 
+To enhance context, Transformers rely heavily on a concept called self-attention. The "self" in "self-attention" refers to the input sequence. self-attention only weighs the importance of relations between tokens in the input sequence.
+https://developers.google.com/machine-learning/crash-course/llm/transformers
+
+
 ## Scaling laws
 Scaling Laws for Neural Language Models
 - indicates that model capabilities improve predictably with more parameters.
