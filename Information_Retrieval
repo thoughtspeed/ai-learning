@@ -6,3 +6,10 @@ IR and scoring functions
 2. BM25 (sparse)
 3. SBERT (dense)
 
+Dense Retrieval
+-Performing retrieval by first encoding query and documents in a dense continuous embedding space and then conducting relevant match by nearest neighbout (vector match) search.
+
+Example usage
+-Find relevant documents for a query from the corpus (Core Search)
+-Retrieve evidence documents for the question (Open QA)
+-Retrieve related documents based on user's previos read/like documents
