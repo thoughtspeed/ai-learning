@@ -8,10 +8,13 @@
 
 ## The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity
 
-RNNs Elman 1990
+## Learning Polynomials with Neural Networks
+https://theory.stanford.edu/~valiant/papers/andoni14.pdf
+
+## RNNs Elman 1990
 LSTMs 1997 (Long Short-term memory networks)
 
-RNN based sequence to sequence approaches (2014)
+## RNN based sequence to sequence approaches (2014)
 Attention (2015) Bahdanau et al.
 Transformer (2017)
 BERT (Devlin et al. 2019)
@@ -26,8 +29,8 @@ Double descent curve
 NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
 introduced attention for sequence-to-sequence models.
 
+## Is the k-NN classifier in high dimensions affected by the curse of dimensionality?
 https://arxiv.org/pdf/1110.4347
-Is the k-NN classifier in high dimensions affected by the curse of dimensionality?
 
 
 ReLU is less susceptible to the vanishing gradient problem during neural network training. ReLU is also significantly easier to compute than these functions.
