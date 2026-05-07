@@ -11,7 +11,12 @@ One-hot vector
 
 A vector space is a collection of vectors, and is characterized by its dimension.
 The dot product acts as a similarity metric because it will tend to be high just when
-the two vectors have large values in the same dimensions.
+the two vectors have large values in the same dimensions. (favor long vectors, which is a problem)
+
+Word2vec
+
+GloVe algorithm
+
 
 Efficient Estimation of Word Representations in Vector Space
 https://arxiv.org/abs/1301.3781
