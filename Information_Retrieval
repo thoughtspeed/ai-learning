@@ -13,3 +13,6 @@ Example usage
 -Find relevant documents for a query from the corpus (Core Search)
 -Retrieve evidence documents for the question (Open QA)
 -Retrieve related documents based on user's previos read/like documents
+
+On the Theoretical Limitations of Embedding-Based Retrieval
+https://arxiv.org/abs/2508.21038
