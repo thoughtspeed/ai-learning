@@ -5,6 +5,7 @@ An embedding is a numerical vector that represents some piece of data (like a wo
 “Embedding space” is the geometric space (often 100–1000 dimensions) where similar items end up close together and dissimilar items are farther apart.
 
 One-hot vector
+-every word (or category) is represented as a vector with a single “1” and all other entries “0.”
 -distance between any 2 vectors is the same, regardless of the words. (nothing to do with the 'meaning' of the words)
 -fine for indexing, but useless for capturing similarity or meaning. That’s why embeddings are introduced — they map words into a continuous vector space where distances reflect semantic closeness.
 
