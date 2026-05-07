@@ -9,7 +9,9 @@ One-hot vector
 -distance between any 2 vectors is the same, regardless of the words. (nothing to do with the 'meaning' of the words)
 -fine for indexing, but useless for capturing similarity or meaning. That’s why embeddings are introduced — they map words into a continuous vector space where distances reflect semantic closeness.
 
-
+A vector space is a collection of vectors, and is characterized by its dimension.
+The dot product acts as a similarity metric because it will tend to be high just when
+the two vectors have large values in the same dimensions.
 
 Efficient Estimation of Word Representations in Vector Space
 https://arxiv.org/abs/1301.3781
