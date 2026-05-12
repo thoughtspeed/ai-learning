@@ -31,4 +31,7 @@ https://arxiv.org/abs/2412.15285
 https://arxiv.org/pdf/2501.12948
 "anthropomorphic tone"
 
+## RLP: Reinforcement as a Pretraining Objective
+https://arxiv.org/abs/2510.01265
+
 https://sloanreview.mit.edu/article/how-llms-work/
