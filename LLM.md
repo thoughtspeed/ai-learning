@@ -22,6 +22,11 @@ Scaling Laws for Neural Language Models
 Backpropagation  is the algorithmic cornerstone of neural network training that enables systematic weight adjustment
 through gradient-based optimization. While loss functions tell us how wrong our predictions are, backpropagation tells us exactly how to fix them.
 
+
+## Maximize Your Data's Potential: Enhancing LLM Accuracy with Two-Phase Pretraining
+https://arxiv.org/abs/2412.15285
+
+
 ## Reasoning capability in LLMs
 https://arxiv.org/pdf/2501.12948
 "anthropomorphic tone"
