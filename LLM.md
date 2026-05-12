@@ -34,4 +34,9 @@ https://arxiv.org/pdf/2501.12948
 ## RLP: Reinforcement as a Pretraining Objective
 https://arxiv.org/abs/2510.01265
 
+RLP teaches models to reason through their own thoughts, not just observe text
+"thoughts" -->> they’re explicit, reward‑shaped, self‑generated reasoning traces that the model learns to use as an internal tool for better prediction and more robust reasoning.
+
+
+
 https://sloanreview.mit.edu/article/how-llms-work/
