@@ -38,4 +38,6 @@ ReLU is less susceptible to the vanishing gradient problem during neural network
 The tendency for the gradients of early hidden layers of some deep neural networks to become surprisingly flat (low). Increasingly lower gradients result in increasingly smaller changes to the weights on nodes in a deep neural network, leading to little or no learning. Models suffering from the vanishing gradient problem become difficult or impossible to train.
 https://developers.google.com/machine-learning/glossary#vanishing-gradient-problem
 
+## Nested Learning: The Illusion of Deep Learning Architectures
+https://arxiv.org/abs/2512.24695
 
