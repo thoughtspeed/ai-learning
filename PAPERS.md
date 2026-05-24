@@ -32,6 +32,8 @@ introduced attention for sequence-to-sequence models.
 ## Is the k-NN classifier in high dimensions affected by the curse of dimensionality?
 https://arxiv.org/pdf/1110.4347
 
+## Convergence of Markov Chains for Constant Step-size Stochastic Gradient Descent with Separable Functions
+https://arxiv.org/abs/2409.12243
 
 ReLU is less susceptible to the vanishing gradient problem during neural network training. ReLU is also significantly easier to compute than these functions.
 
