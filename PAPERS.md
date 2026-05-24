@@ -43,3 +43,6 @@ https://developers.google.com/machine-learning/glossary#vanishing-gradient-probl
 ## Nested Learning: The Illusion of Deep Learning Architectures
 https://arxiv.org/abs/2512.24695
 
+## Hallucinations Undermine Trust; Metacognition is a Way Forward
+https://arxiv.org/html/2605.01428v1
+
