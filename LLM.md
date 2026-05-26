@@ -42,6 +42,8 @@ How LMs are trained:
 a. Pre-training
 b. Post-training (supervised fine-tuning, RLHF)
 
+Convolution
+Linear, shift-invariant transformation
 
 
 
