@@ -3,6 +3,9 @@
 ## Interactive 3D visualization of LLM internals. (by Brendan Bycroft)
 https://bbycroft.net/llm
 
+Language Models are Few-Shot Learners
+https://arxiv.org/pdf/2005.14165
+
 ## Transformers
 https://www.youtube.com/watch?v=wjZofJX0v4M
 
