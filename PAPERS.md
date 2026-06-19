@@ -46,3 +46,5 @@ https://arxiv.org/abs/2512.24695
 ## Hallucinations Undermine Trust; Metacognition is a Way Forward
 https://arxiv.org/html/2605.01428v1
 
+## Runtime Compliance Verification for AI Agents
+https://arxiv.org/abs/2606.19242
