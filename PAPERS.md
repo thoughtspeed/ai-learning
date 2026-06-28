@@ -43,6 +43,9 @@ https://developers.google.com/machine-learning/glossary#vanishing-gradient-probl
 ## Nested Learning: The Illusion of Deep Learning Architectures
 https://arxiv.org/abs/2512.24695
 
+## Why AI systems don't learn and what to do about it: Lessons on autonomous learning from cognitive science
+https://arxiv.org/abs/2603.15381
+
 ## Hallucinations Undermine Trust; Metacognition is a Way Forward
 https://arxiv.org/html/2605.01428v1
 
