@@ -11,6 +11,10 @@ https://www.youtube.com/watch?v=wjZofJX0v4M
 
 Attention is the heart of the Transformer
 
+Introduced Attention concept.
+## Neural Machine Translation by Jointly Learning to Align and Translate
+https://arxiv.org/abs/1409.0473
+
 ## Attention mechanisms
 https://lilianweng.github.io/posts/2018-06-24-attention/
 
